@@ -1,0 +1,12 @@
+To compile, run make.
+
+The execute the simulator, run ./cpusim
+
+For some initial testing, consider the following input:
+	Number of tasks: 10
+	Max burst time: 100
+	Inter-arrival time: 10
+	Time Quantum: 10
+	Random Seed: 556
+
+Remember, this produces .trace files as output.
